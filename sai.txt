@@ -67,7 +67,7 @@
   },{
     "@type": "ListItem", 
     "position": 2, 
-    "name": "REJEKIBET RESMI,
+    "name": "REJEKIBET RESMI",
     "item": "https://sisasiciliaspa.it/"  
   },{
     "@type": "ListItem", 
