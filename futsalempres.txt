@@ -97,7 +97,7 @@
   },{
     "@type": "ListItem", 
     "position": 8, 
-    "name": "MACAU 4D,
+    "name": "MACAU 4D",
     "item": "https://www.joyeriachaves.es/empresa/"  
   },{
     "@type": "ListItem", 
